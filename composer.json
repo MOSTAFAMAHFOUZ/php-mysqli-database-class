@@ -1,0 +1,20 @@
+{
+    "name": "php-learn/database-class",
+    "description": "A database class using mysqli",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mostafa Mahfouz",
+            "email": "mahfouzm25@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
+
